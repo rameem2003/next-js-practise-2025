@@ -37,6 +37,11 @@ const Navbar = () => {
             Profile
           </Link>
         </li>
+        <li>
+          <Link className=" text-white font-semibold" href="/register">
+            Register
+          </Link>
+        </li>
       </ul>
     </nav>
   );
