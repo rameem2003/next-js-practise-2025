@@ -38,6 +38,11 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
+          <Link className=" text-white font-semibold" href="/login">
+            Login
+          </Link>
+        </li>
+        <li>
           <Link className=" text-white font-semibold" href="/register">
             Register
           </Link>

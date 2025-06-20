@@ -1,9 +1,11 @@
 "use client";
+import { useSession } from "next-auth/react";
 import { useRouter } from "next/navigation";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 
 const page = () => {
   const router = useRouter();
+  // const { data: session, status } = useSession();
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [confirmPassword, setConfirmPassword] = useState("");
@@ -14,7 +16,7 @@ const page = () => {
     console.log(email, password, confirmPassword);
 
     if (password !== confirmPassword) {
-      alert("Passwords do not match");
+      return;
     }
 
     try {
@@ -33,6 +35,12 @@ const page = () => {
       console.error(error);
     }
   };
+
+  // useEffect(() => {
+  //   if (status === "authenticated") {
+  //     router.push("/about"); // or wherever you want
+  //   }
+  // }, [status, router]);
 
   return (
     <div className="flex h-screen bg-gray-900">
