@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Suspense } from "react";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import {
@@ -10,6 +10,7 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
+import FilterComp from "./FilterComp";
 
 interface productType {
   id: number;
@@ -18,15 +19,25 @@ interface productType {
   price: number;
 }
 
-const page = async () => {
-  const res = await fetch("https://dummyjson.com/products");
-  const { products } = await res.json();
+const page = async ({ searchParams }: { searchParams: any }) => {
+  const { price, category, page } = await searchParams;
+  const res = await fetch(
+    `http://localhost:3000/api/products?price=${price || ""}&category=${
+      category || ""
+    }&page=${page || 1}`
+  );
+  const data = await res.json();
+  const { products } = data;
 
   return (
     <div>
       <h1 className="text-2xl text-white font-bold font-ubuntu">Shop Page</h1>
 
       <Button variant={"secondary"}>Click me</Button>
+
+      <Suspense fallback={<p>Loading filters...</p>}>
+        <FilterComp />
+      </Suspense>
       <div className="flex flex-wrap gap-4">
         {products.map((item: productType) => (
           <div
