@@ -1,0 +1,702 @@
+[
+  {
+    "id": "fa953c7d-9694-4350-9e15-e9780bb99987",
+    "title": "Mystery Novel",
+    "description": "High quality product.",
+    "price": 241.21,
+    "category": "Electronics"
+  },
+  {
+    "id": "dc590108-7468-4b12-af67-aeb0389dc7db",
+    "title": "Tennis Racket",
+    "description": "High quality product.",
+    "price": 613.88,
+    "category": "Electronics"
+  },
+  {
+    "id": "a586f385-fcd2-453e-afe8-67eb76dc5e83",
+    "title": "Science Fiction Book",
+    "description": "Limited edition item.",
+    "price": 708.5,
+    "category": "Electronics"
+  },
+  {
+    "id": "3a5517b5-3b52-4b72-9f7a-56c62494bfe0",
+    "title": "Face Cream",
+    "description": "Best in class.",
+    "price": 623.33,
+    "category": "Electronics"
+  },
+  {
+    "id": "1d4ae46f-2581-4178-ae2a-9cdb67399652",
+    "title": "Shampoo",
+    "description": "High quality product.",
+    "price": 358.29,
+    "category": "Beauty"
+  },
+  {
+    "id": "27ba5ea1-b424-42b8-88b4-ee2adc73c842",
+    "title": "Wireless Mouse",
+    "description": "High quality product.",
+    "price": 552.3,
+    "category": "Toys"
+  },
+  {
+    "id": "a8f2c405-639a-4abd-8831-7d0109820d48",
+    "title": "Organic Honey",
+    "description": "New arrival.",
+    "price": 254.19,
+    "category": "Sports"
+  },
+  {
+    "id": "d718424f-efdd-4ca4-ae5b-7b39583c4d41",
+    "title": "Blender",
+    "description": "Limited edition item.",
+    "price": 796.52,
+    "category": "Electronics"
+  },
+  {
+    "id": "8f9989d0-ec49-42db-ba9b-2884b450faf7",
+    "title": "Organic Honey",
+    "description": "Limited edition item.",
+    "price": 674.07,
+    "category": "Clothing"
+  },
+  {
+    "id": "eafd698d-2788-42b1-b0f6-c53bf34ad810",
+    "title": "T-shirt",
+    "description": "High quality product.",
+    "price": 675.32,
+    "category": "Groceries"
+  },
+  {
+    "id": "40479ab2-a6e3-4577-bfe6-be106bbb0384",
+    "title": "Mystery Novel",
+    "description": "Best in class.",
+    "price": 778.21,
+    "category": "Electronics"
+  },
+  {
+    "id": "acae5042-1383-4aee-9e40-cdf3a31fabd4",
+    "title": "Action Figure",
+    "description": "Durable and reliable.",
+    "price": 173.67,
+    "category": "Books"
+  },
+  {
+    "id": "8323f003-15cd-4915-8e00-101d9f13bcc0",
+    "title": "Puzzle Game",
+    "description": "Eco-friendly materials used.",
+    "price": 456.59,
+    "category": "Clothing"
+  },
+  {
+    "id": "da6e377f-ae0f-4bce-a53f-d1f120de504d",
+    "title": "Wireless Mouse",
+    "description": "Customer favorite.",
+    "price": 160.44,
+    "category": "Home"
+  },
+  {
+    "id": "5a786734-bb3b-4e41-b92c-508c733b38c6",
+    "title": "Bluetooth Speaker",
+    "description": "Customer favorite.",
+    "price": 427.21,
+    "category": "Toys"
+  },
+  {
+    "id": "c13f5b00-ca61-4c60-b7f6-0abd324cd748",
+    "title": "Wireless Mouse",
+    "description": "Eco-friendly materials used.",
+    "price": 33.74,
+    "category": "Books"
+  },
+  {
+    "id": "7fd3b117-7bfd-4ff5-bf8a-76f0ebb3e378",
+    "title": "T-shirt",
+    "description": "Top rated.",
+    "price": 162.72,
+    "category": "Sports"
+  },
+  {
+    "id": "5b0a0397-5696-44b9-b319-0a86d1d9f1e0",
+    "title": "Bluetooth Speaker",
+    "description": "New arrival.",
+    "price": 335.36,
+    "category": "Electronics"
+  },
+  {
+    "id": "65057e71-9022-45f7-96df-47ae597c7e24",
+    "title": "Bluetooth Speaker",
+    "description": "High quality product.",
+    "price": 218.42,
+    "category": "Toys"
+  },
+  {
+    "id": "a5de7bec-e86a-4a0c-ac99-7485342b80f1",
+    "title": "Toaster",
+    "description": "Best in class.",
+    "price": 780.66,
+    "category": "Groceries"
+  },
+  {
+    "id": "a0a2c165-9dfc-4cbd-8ff3-d03145a3d6c2",
+    "title": "Organic Honey",
+    "description": "High quality product.",
+    "price": 142.96,
+    "category": "Groceries"
+  },
+  {
+    "id": "e60f9cc2-1e0d-4d35-b433-f125a68126ce",
+    "title": "Science Fiction Book",
+    "description": "Limited edition item.",
+    "price": 611.26,
+    "category": "Home"
+  },
+  {
+    "id": "ba81f261-e1bd-4a41-88fc-9c569025106f",
+    "title": "Blender",
+    "description": "Customer favorite.",
+    "price": 389.28,
+    "category": "Beauty"
+  },
+  {
+    "id": "a27d86fe-6c79-478d-8970-2e959150ecf6",
+    "title": "Blender",
+    "description": "Top rated.",
+    "price": 925.07,
+    "category": "Groceries"
+  },
+  {
+    "id": "ee66700c-1150-4df7-94b0-4218bce6c23b",
+    "title": "Football",
+    "description": "Customer favorite.",
+    "price": 309.99,
+    "category": "Sports"
+  },
+  {
+    "id": "b14a4d90-cf74-4c3c-a9bd-e109cb4b1f16",
+    "title": "Football",
+    "description": "New arrival.",
+    "price": 887.9,
+    "category": "Books"
+  },
+  {
+    "id": "f5f85a5b-c5c0-4fe4-8344-d6c2e8070096",
+    "title": "Blender",
+    "description": "Customer favorite.",
+    "price": 318.72,
+    "category": "Groceries"
+  },
+  {
+    "id": "46b2f7d6-3819-4963-b0f8-3e0afd70135e",
+    "title": "Face Cream",
+    "description": "Limited edition item.",
+    "price": 523.7,
+    "category": "Clothing"
+  },
+  {
+    "id": "4ff9f54c-aca5-4ce4-a7a4-ab4668208990",
+    "title": "Action Figure",
+    "description": "Best in class.",
+    "price": 836.83,
+    "category": "Clothing"
+  },
+  {
+    "id": "2a42f253-36c6-46bb-8cca-2726b813c21b",
+    "title": "Olive Oil",
+    "description": "Durable and reliable.",
+    "price": 936.4,
+    "category": "Electronics"
+  },
+  {
+    "id": "fbcb1e6b-1546-4f2e-b08d-f4d7de5150e1",
+    "title": "Tennis Racket",
+    "description": "Customer favorite.",
+    "price": 379.89,
+    "category": "Electronics"
+  },
+  {
+    "id": "faa5f436-9530-42f1-a9f0-55de0ac6d0b6",
+    "title": "Football",
+    "description": "High quality product.",
+    "price": 514.29,
+    "category": "Sports"
+  },
+  {
+    "id": "1d61da79-11eb-44d2-9376-a92c9dbc66a4",
+    "title": "T-shirt",
+    "description": "Durable and reliable.",
+    "price": 225.02,
+    "category": "Beauty"
+  },
+  {
+    "id": "7a334415-f921-441f-a580-891c85ab3562",
+    "title": "Puzzle Game",
+    "description": "Best in class.",
+    "price": 177.19,
+    "category": "Beauty"
+  },
+  {
+    "id": "fb70a3cf-dbd3-4f9c-9b89-a9185bd6bb56",
+    "title": "Toaster",
+    "description": "High quality product.",
+    "price": 972.06,
+    "category": "Clothing"
+  },
+  {
+    "id": "62f09c1f-f850-4304-8394-be3955356fff",
+    "title": "Puzzle Game",
+    "description": "Durable and reliable.",
+    "price": 975.64,
+    "category": "Sports"
+  },
+  {
+    "id": "d77c3c96-b00b-4c8d-88ad-5eb11e459e2d",
+    "title": "Bluetooth Speaker",
+    "description": "Eco-friendly materials used.",
+    "price": 629.09,
+    "category": "Electronics"
+  },
+  {
+    "id": "c91d3a67-f393-4c75-93cd-90079f3a1584",
+    "title": "Puzzle Game",
+    "description": "Customer favorite.",
+    "price": 165.43,
+    "category": "Toys"
+  },
+  {
+    "id": "519d0db8-ee03-4b7f-891d-53b2849a8ac9",
+    "title": "Blender",
+    "description": "New arrival.",
+    "price": 259.35,
+    "category": "Electronics"
+  },
+  {
+    "id": "7a7b5980-03be-4185-bd30-fdfde9d38fe2",
+    "title": "Blender",
+    "description": "Customer favorite.",
+    "price": 502.15,
+    "category": "Sports"
+  },
+  {
+    "id": "dd8c005a-1e30-49b2-b631-b26942a98381",
+    "title": "Science Fiction Book",
+    "description": "Durable and reliable.",
+    "price": 58.34,
+    "category": "Books"
+  },
+  {
+    "id": "a87cd678-9608-46b2-901b-ec932389e132",
+    "title": "Toaster",
+    "description": "High quality product.",
+    "price": 946.59,
+    "category": "Groceries"
+  },
+  {
+    "id": "9e33935b-2ed7-4bbb-bcf7-094edf6f8a84",
+    "title": "Organic Honey",
+    "description": "Eco-friendly materials used.",
+    "price": 220.86,
+    "category": "Sports"
+  },
+  {
+    "id": "ea2efb9f-3bac-4abb-a5a5-6549f85d8591",
+    "title": "Toaster",
+    "description": "New arrival.",
+    "price": 715.61,
+    "category": "Clothing"
+  },
+  {
+    "id": "fe3174d2-c402-4ef1-9bab-b928d253ebc5",
+    "title": "Football",
+    "description": "Eco-friendly materials used.",
+    "price": 393.72,
+    "category": "Clothing"
+  },
+  {
+    "id": "3bb4df28-14b4-4dc0-ac00-cd4a1fa9ceb3",
+    "title": "Shampoo",
+    "description": "Top rated.",
+    "price": 511.37,
+    "category": "Sports"
+  },
+  {
+    "id": "58ae6805-ef50-4030-ad48-d4746cd3b0ae",
+    "title": "Mystery Novel",
+    "description": "Limited edition item.",
+    "price": 401.74,
+    "category": "Home"
+  },
+  {
+    "id": "5f47bd8a-4d68-400e-be03-8114b088ff43",
+    "title": "Action Figure",
+    "description": "Durable and reliable.",
+    "price": 593.19,
+    "category": "Groceries"
+  },
+  {
+    "id": "2b6fa19b-4495-4134-8218-b55ef872dcea",
+    "title": "Toaster",
+    "description": "High quality product.",
+    "price": 670.81,
+    "category": "Beauty"
+  },
+  {
+    "id": "75c8e866-cddc-483f-bf62-cd3c135acc41",
+    "title": "Bluetooth Speaker",
+    "description": "Durable and reliable.",
+    "price": 659.44,
+    "category": "Groceries"
+  },
+  {
+    "id": "8b911465-dd51-4af9-bee8-0b2b994ab6d2",
+    "title": "Puzzle Game",
+    "description": "New arrival.",
+    "price": 502.83,
+    "category": "Toys"
+  },
+  {
+    "id": "ab03da67-c4f4-49cf-a163-047e46ca3be4",
+    "title": "Organic Honey",
+    "description": "Eco-friendly materials used.",
+    "price": 918.65,
+    "category": "Groceries"
+  },
+  {
+    "id": "c98ac60f-1738-467b-9107-97feeca0e2d7",
+    "title": "Shampoo",
+    "description": "Durable and reliable.",
+    "price": 899.62,
+    "category": "Home"
+  },
+  {
+    "id": "82a62cc4-07e4-4d0b-8478-4bd505f15c5d",
+    "title": "Bluetooth Speaker",
+    "description": "Limited edition item.",
+    "price": 399.19,
+    "category": "Electronics"
+  },
+  {
+    "id": "c57eedeb-ae56-4fea-af52-1cf695f0b353",
+    "title": "Shampoo",
+    "description": "New arrival.",
+    "price": 932.65,
+    "category": "Electronics"
+  },
+  {
+    "id": "a83fe8ed-74c7-41b4-a3c0-ca2d7b65c258",
+    "title": "Tennis Racket",
+    "description": "Eco-friendly materials used.",
+    "price": 909.6,
+    "category": "Books"
+  },
+  {
+    "id": "897d10d9-683b-4788-8441-4c4118a83fca",
+    "title": "Science Fiction Book",
+    "description": "Top rated.",
+    "price": 854.25,
+    "category": "Books"
+  },
+  {
+    "id": "e6607e4a-f1c9-41f6-a60c-4217da5fd16e",
+    "title": "Wireless Mouse",
+    "description": "High quality product.",
+    "price": 74.11,
+    "category": "Sports"
+  },
+  {
+    "id": "49dd49b0-841b-463f-a4aa-e8929d94d05b",
+    "title": "Face Cream",
+    "description": "Best in class.",
+    "price": 325.63,
+    "category": "Groceries"
+  },
+  {
+    "id": "93d5a2f6-a073-4766-a7c9-408a0c6d776c",
+    "title": "Puzzle Game",
+    "description": "Top rated.",
+    "price": 270.3,
+    "category": "Sports"
+  },
+  {
+    "id": "087ae3bc-c347-4314-bf6d-dbf51c4d38cf",
+    "title": "Face Cream",
+    "description": "Limited edition item.",
+    "price": 577.36,
+    "category": "Groceries"
+  },
+  {
+    "id": "dcee6aa5-c227-420d-9962-ef329bb5ec9e",
+    "title": "Mystery Novel",
+    "description": "Top rated.",
+    "price": 62.4,
+    "category": "Sports"
+  },
+  {
+    "id": "21dde82c-8cef-4a25-be20-4e7e8529eac2",
+    "title": "Puzzle Game",
+    "description": "Limited edition item.",
+    "price": 313.47,
+    "category": "Groceries"
+  },
+  {
+    "id": "667d99d6-d065-4d00-a73f-28adcf9c113f",
+    "title": "Action Figure",
+    "description": "Top rated.",
+    "price": 126.83,
+    "category": "Books"
+  },
+  {
+    "id": "61bf3805-8bb6-4af7-b1ea-ffbc90f2dfd7",
+    "title": "Mystery Novel",
+    "description": "New arrival.",
+    "price": 728.49,
+    "category": "Home"
+  },
+  {
+    "id": "aa1a23de-789c-4b4c-9c95-9f7a5b90cd9d",
+    "title": "Tennis Racket",
+    "description": "Eco-friendly materials used.",
+    "price": 582.92,
+    "category": "Books"
+  },
+  {
+    "id": "b649d2c0-6be2-4b14-89fb-80f28860863f",
+    "title": "Face Cream",
+    "description": "New arrival.",
+    "price": 622.18,
+    "category": "Clothing"
+  },
+  {
+    "id": "affd91f6-9d58-4181-866b-bfb6dc82ed90",
+    "title": "Olive Oil",
+    "description": "Top rated.",
+    "price": 523.8,
+    "category": "Groceries"
+  },
+  {
+    "id": "e4da6122-f2ce-4b55-aacc-2b6cae88e943",
+    "title": "Toaster",
+    "description": "Limited edition item.",
+    "price": 483.93,
+    "category": "Toys"
+  },
+  {
+    "id": "3739edd8-cf3d-4f46-b3da-130e02e00594",
+    "title": "Blender",
+    "description": "Durable and reliable.",
+    "price": 320.9,
+    "category": "Books"
+  },
+  {
+    "id": "5f7ea408-1384-4b3c-ab61-07e1ced93211",
+    "title": "Mystery Novel",
+    "description": "High quality product.",
+    "price": 626.09,
+    "category": "Electronics"
+  },
+  {
+    "id": "e54cb10a-74b5-490b-a2d5-11f3bb099555",
+    "title": "Toaster",
+    "description": "Eco-friendly materials used.",
+    "price": 359.13,
+    "category": "Home"
+  },
+  {
+    "id": "ea720ccd-a7dd-47ac-86e6-ee9456e4948f",
+    "title": "Bluetooth Speaker",
+    "description": "High quality product.",
+    "price": 12.82,
+    "category": "Home"
+  },
+  {
+    "id": "9d83d312-3079-4b1c-b0dd-d8cee0986cad",
+    "title": "Olive Oil",
+    "description": "Top rated.",
+    "price": 327.6,
+    "category": "Groceries"
+  },
+  {
+    "id": "8dfeede7-a81e-49ab-b96c-bd4ac210bf58",
+    "title": "Mystery Novel",
+    "description": "Top rated.",
+    "price": 727.81,
+    "category": "Home"
+  },
+  {
+    "id": "fc176c52-6c01-41c7-9853-176818f51dc8",
+    "title": "Blender",
+    "description": "New arrival.",
+    "price": 60.6,
+    "category": "Clothing"
+  },
+  {
+    "id": "dd90e23e-6cae-4ae6-916f-40bb093700d1",
+    "title": "Shampoo",
+    "description": "Eco-friendly materials used.",
+    "price": 452.68,
+    "category": "Home"
+  },
+  {
+    "id": "43b17edd-c8bb-4c58-9abf-0d8ff41bd807",
+    "title": "Face Cream",
+    "description": "Durable and reliable.",
+    "price": 86.99,
+    "category": "Sports"
+  },
+  {
+    "id": "59a2dec1-a666-42c8-a0d3-24d902e28fc1",
+    "title": "Football",
+    "description": "Customer favorite.",
+    "price": 806.24,
+    "category": "Home"
+  },
+  {
+    "id": "a2feed21-5f8c-4fdf-a8e6-5fd4f5c6fa6d",
+    "title": "Jeans",
+    "description": "Durable and reliable.",
+    "price": 342.87,
+    "category": "Books"
+  },
+  {
+    "id": "768cb096-37dd-423d-9836-f0ae4a1f29b7",
+    "title": "T-shirt",
+    "description": "New arrival.",
+    "price": 852.7,
+    "category": "Home"
+  },
+  {
+    "id": "38d7f4fc-139e-43ae-861e-ec7f26db2d91",
+    "title": "Puzzle Game",
+    "description": "Top rated.",
+    "price": 727.18,
+    "category": "Books"
+  },
+  {
+    "id": "8b39e10b-6eff-4cd1-a671-f7777c9eebef",
+    "title": "Face Cream",
+    "description": "Eco-friendly materials used.",
+    "price": 997.36,
+    "category": "Toys"
+  },
+  {
+    "id": "815157e5-82cf-49e8-951d-49a89dbd3854",
+    "title": "Science Fiction Book",
+    "description": "New arrival.",
+    "price": 62.23,
+    "category": "Beauty"
+  },
+  {
+    "id": "9e77ee3d-6250-471b-82ea-fb2c388e9f9d",
+    "title": "Jeans",
+    "description": "Best in class.",
+    "price": 708.89,
+    "category": "Clothing"
+  },
+  {
+    "id": "c6395aa8-198f-4e5a-b7d0-3d32df906594",
+    "title": "Puzzle Game",
+    "description": "Top rated.",
+    "price": 949.01,
+    "category": "Books"
+  },
+  {
+    "id": "b2bd2340-a737-40e8-9243-a1b7e85a5142",
+    "title": "Toaster",
+    "description": "Best in class.",
+    "price": 310.69,
+    "category": "Home"
+  },
+  {
+    "id": "4212cf92-3fe2-4ee2-ad09-38c8a5b1e68a",
+    "title": "Shampoo",
+    "description": "High quality product.",
+    "price": 560.94,
+    "category": "Home"
+  },
+  {
+    "id": "5342c8e0-9364-4ec5-930f-35b9df7a3aff",
+    "title": "Mystery Novel",
+    "description": "Customer favorite.",
+    "price": 143.75,
+    "category": "Beauty"
+  },
+  {
+    "id": "e32f42c8-7e4d-4418-bf24-960d72007adc",
+    "title": "Action Figure",
+    "description": "Limited edition item.",
+    "price": 706.01,
+    "category": "Home"
+  },
+  {
+    "id": "68a13f1c-85ee-49f8-8e7f-3d61762171e0",
+    "title": "Action Figure",
+    "description": "New arrival.",
+    "price": 544.28,
+    "category": "Electronics"
+  },
+  {
+    "id": "97bebe2a-0fe9-4f11-9d0a-5152dbc464ce",
+    "title": "Tennis Racket",
+    "description": "Durable and reliable.",
+    "price": 18.52,
+    "category": "Sports"
+  },
+  {
+    "id": "b17c9731-0782-4455-85f3-e3da9d309c9e",
+    "title": "T-shirt",
+    "description": "High quality product.",
+    "price": 464.67,
+    "category": "Electronics"
+  },
+  {
+    "id": "3fcc957f-6a14-45e3-8b18-0f5d83a885a7",
+    "title": "Shampoo",
+    "description": "Durable and reliable.",
+    "price": 241.1,
+    "category": "Sports"
+  },
+  {
+    "id": "2f9cf2c3-4b93-4d44-aff7-b66a0c9fab43",
+    "title": "Bluetooth Speaker",
+    "description": "Durable and reliable.",
+    "price": 587.96,
+    "category": "Toys"
+  },
+  {
+    "id": "e630f201-7b54-4095-8bcb-dc25fcb9b5a8",
+    "title": "Shampoo",
+    "description": "New arrival.",
+    "price": 304.02,
+    "category": "Books"
+  },
+  {
+    "id": "bcff3b7a-7a8e-4061-bb10-0a5af610962d",
+    "title": "T-shirt",
+    "description": "Top rated.",
+    "price": 57.95,
+    "category": "Groceries"
+  },
+  {
+    "id": "6825b4cc-f0e8-498d-a630-4ec3744cfb2c",
+    "title": "Wireless Mouse",
+    "description": "High quality product.",
+    "price": 871.49,
+    "category": "Groceries"
+  },
+  {
+    "id": "2a9d4317-34db-49d6-b9ec-69a12b93eda0",
+    "title": "Organic Honey",
+    "description": "New arrival.",
+    "price": 690.02,
+    "category": "Toys"
+  },
+  {
+    "id": "d6b1013b-4241-40a9-adcd-b8f30c9220e8",
+    "title": "Olive Oil",
+    "description": "High quality product.",
+    "price": 158.09,
+    "category": "Clothing"
+  }
+]
